@@ -49,6 +49,8 @@ byte_copy.o
 byte_cr.o
 byte_diff.o
 byte_rchr.o
+host-chkshsgr
+host-chkshsgr.o
 chkshsgr
 chkshsgr.o
 choose
